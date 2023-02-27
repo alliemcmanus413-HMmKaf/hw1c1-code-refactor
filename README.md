@@ -7,4 +7,5 @@ In the index.html, I added alt elements to describe images used in the webpage s
 
 
 
-(./assets/images/Horiseon-Webpage.jpg)
+![webpage mockup - has header, navbar, body, and aside](./assets/images/Horiseon-Webpage.jpg)
+
