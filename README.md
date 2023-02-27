@@ -5,3 +5,6 @@ After creating these new classes, I updated the index.html to include the correc
 
 In the index.html, I added alt elements to describe images used in the webpage so that webpage readers can relay accessible information to users. 
 
+
+
+(./assets/images/Horiseon-Webpage.jpg)
